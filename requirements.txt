@@ -1,0 +1,12 @@
+matplotlib
+scikit-image
+imageio
+mediapipe
+opencv-python
+shapely
+svg2mod
+IPython
+svgwrite
+lxml
+ipykernel
+ipympl
